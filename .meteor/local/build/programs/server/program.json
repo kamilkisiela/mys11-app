@@ -218,6 +218,10 @@
       "path": "packages/standard-minifiers.js"
     },
     {
+      "sourceMap": "packages/mys_mys11.js.map",
+      "path": "packages/mys_mys11.js"
+    },
+    {
       "sourceMap": "packages/livedata.js.map",
       "path": "packages/livedata.js"
     },
