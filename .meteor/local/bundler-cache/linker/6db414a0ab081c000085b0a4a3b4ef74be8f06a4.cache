@@ -1,0 +1,1 @@
+[{"type":"js","data":"(function () {\n\n/* Imports */\nvar Meteor = Package.meteor.Meteor;\n\n\n\n/* Exports */\nif (typeof Package === 'undefined') Package = {};\nPackage['mys:mys11'] = {};\n\n})();\n","servePath":"/packages/mys_mys11.js","sourceMap":{"version":3,"sources":[],"names":[],"mappings":";;;;;","file":"/packages/mys_mys11.js"}}]
